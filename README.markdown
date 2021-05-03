@@ -1,6 +1,6 @@
 This is a simple demonstration application used in the [Jenkins: The Definitive Guide](http://wakaleo.com/books/jenkins-the-definitive-guide) book.
 
-## Building the project by venkat
+## Building the project by venkat and NANI
 
 The project is a simple multi-module Maven project. To build the whole project, just run `mvn install` from the root directory.
 
